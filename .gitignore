@@ -1,0 +1,4 @@
+screenshot-to-terminal
+*.o
+*.dSYM/
+default.profraw
